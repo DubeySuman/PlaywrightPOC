@@ -1,0 +1,14 @@
+{
+    "masterProject" : "Comporium QA",
+    "project" : "Dashound",
+    "feature" : "QA and Automation",
+    "ticketId" : "Sprint Testing",
+    "ticketDescription" : "PlaywrightPOC",
+    "complexity" : "Simple",
+    "priority" : "Low",
+    "assignedUser" : "Suman Dubey (CELN00374)",
+    "dueDateYear" : "2024",
+    "dueDateMonth" : "Dec",
+    "dueDate" : "29"
+
+}
