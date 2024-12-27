@@ -68,7 +68,6 @@ test.describe('Ticket Page Tests', () => {
             ticketFieldInputs.dueDate
         );
 
-        // Add assertions as needed to verify the functionality
-        // Example: await expect(pyramidCoreTicketPage.someElement).toBeVisible();
+
     });
 });
