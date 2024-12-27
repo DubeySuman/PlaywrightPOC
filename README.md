@@ -4,25 +4,8 @@ This project is a demonstration of using Playwright for end-to-end testing of a 
 
 Project Structure
 
-PlaywrightDemo/
-├── .github/
-│   └── workflows/
-│       └── playwright.yml
-├── pages/
-│   ├── pyramidcore-login.js
-│   ├── pyramidcore-home.js
-│   ├── pyramidcore-assigntickets.js
-│   ├── pyramidcore-timesheet.js
-├── tests/
-│   ├── ticket.spec.js
-│   ├── timesheet.spec.js
-├── testdata/
-│   ├── loginCreds.json
-│   ├── ticketData.json
-│   ├── timesheetData.json
-├── package.json
-├── package-lock.json
-└── README.md
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/5058e7fd-8f10-45cb-ad79-e4a804228d50" />
+
 
 Usage
 
